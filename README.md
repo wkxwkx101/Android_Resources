@@ -51,6 +51,23 @@
 * [GitHub 中国区前100名到底是什么样的人](http://www.jianshu.com/p/d29cba7934c9)
 
 * [GitHub 上各大语言的一些牛人](http://githuber.cn/rank)
+***
+***
+
+**从0开始学习 GitHub 系列教程：**
+* [从0开始学习 GITHUB 系列之「初识 GITHUB」](http://stormzhang.com/github/2016/05/25/learn-github-from-zero1/)
+
+* [从0开始学习 GITHUB 系列之「加入 GITHUB」](http://stormzhang.com/github/2016/05/26/learn-github-from-zero2/)
+
+* [从0开始学习 GITHUB 系列之「GIT 速成」](http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/)
+
+* [从0开始学习 GITHUB 系列之「向GITHUB 提交代码」](http://stormzhang.com/github/2016/06/04/learn-github-from-zero4/)
+
+* [从0开始学习 GITHUB 系列之「GIT 进阶」](http://stormzhang.com/github/2016/06/16/learn-github-from-zero5/)
+
+* [从0开始学习 GITHUB 系列之「团队合作利器 BRANCH」](http://stormzhang.com/github/2016/07/09/learn-from-github-from-zero6/)
+
+* [从0开始学习 GITHUB 系列之「GITHUB 常见的几种操作」](http://stormzhang.com/github/2016/09/21/learn-github-from-zero8/)
 
 ***
 ***
@@ -163,6 +180,12 @@
 **基于大名鼎鼎Gank.io的客户端合集：**
 * [Gank.io Client](https://github.com/ruijun/awesome-gank.io)
 
+***
+***
+**关于搭建个人博客你必须要知道的：**
+* [5分钟教你使用 github pages 搭建博客](http://www.jianshu.com/p/bb7f9dcf556b)
+
+* [简书 Markdown 教程](http://www.jianshu.com/p/1ce820dc4112)
 ***
 ***
 
