@@ -96,6 +96,7 @@
 
 **关于关系型数据库你必须要知道的：**
 * [GreenDao 3.0简单又好用的ORM DB](http://www.jianshu.com/p/853401a7d02b)
+
 ***
 ***
 
@@ -142,11 +143,13 @@
 
 * jhy/jsoup:
 * https://jsoup.org/download
+
 ***
 ***
 
 **关于Chrome插件你必须要知道的：**
 * [开发者常用的十款Chrome插件](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=2653418938&idx=1&sn=2fa6de36c3e07a8b9e767d9e7984b740&scene=1&srcid=0904twvRdTLHXKkjFlEPRnoQ#rd)
+
 ***
 ***
 
