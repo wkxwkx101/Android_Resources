@@ -13,7 +13,6 @@
 ***
 
 **开发必备网站：**
-
 * [Android  开发各种工具下载](http://www.androiddevtools.cn/)
 
 * [Android  开发国内大牛集合](https://github.com/android-cn/android-dev-cn)  
@@ -117,7 +116,6 @@
 ***
 
 **关于开源库你必须要知道的：**
-
 * JakeWharton/butterknife：
 * https://github.com/JakeWharton/butterknife
 
@@ -153,7 +151,6 @@
 ***
 
 **关于Material Design你必须要知道的：**
-
 * [Material Design 中文版1](http://www.apkbus.com/design/material-design.html)
 
 * [Material Design 中文版2](http://wiki.jikexueyuan.com/project/material-design/)
@@ -161,7 +158,6 @@
 ***
 
 **基于大名鼎鼎Gank.io的客户端合集：**
-
 * [Gank.io Client](https://github.com/ruijun/awesome-gank.io)
 
 ***
@@ -170,4 +166,3 @@
 **[Github地址](https://github.com/wkxwkx101/Android_Resources)，也欢迎同步收藏！**
 
 **大家如果有更好的推荐，欢迎大家留言私信！**
-
