@@ -44,6 +44,8 @@
 
 * [在线开发一些小工具集合](http://www.bejson.com/)
 
+* [为程序员每天推荐各大知名社区的优质内容](http://e.xitu.io/)
+
 ***
 ***
 
@@ -77,6 +79,30 @@
 * [从0开始学习 GITHUB 系列之「团队合作利器 BRANCH」](http://stormzhang.com/github/2016/07/09/learn-from-github-from-zero6/)
 
 * [从0开始学习 GITHUB 系列之「GITHUB 常见的几种操作」](http://stormzhang.com/github/2016/09/21/learn-github-from-zero8/)
+
+***
+***
+
+**免后台开发必备工具：**
+
+ * [leancloud](https://leancloud.cn/)
+
+ * [bmob](http://www.bmob.cn/)
+
+ * [apicloud.](http://www.apicloud.com/)
+
+***
+***
+
+**关于反编译apk你必须要知道的：**
+
+ * [Android APK反编详解](http://blog.csdn.net/vipzjyno1/article/details/21039349/)
+
+ * [Android Killer](http://www.cnblogs.com/common1140/p/5198460.html)
+
+ * [Android 逆向助手](http://www.downxia.com/downinfo/42109.html)
+
+ * [Android SmaliViewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B)
 
 ***
 ***
